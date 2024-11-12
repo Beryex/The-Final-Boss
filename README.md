@@ -14,12 +14,16 @@ Using art assets from the Unreal Engine Store, I led my team in implementing sev
 - Two types of NPCs with a dynamic dialogue system; NPCs can sell power items or guide players to the final boss, with dialogue that evolves as the game progresses
 - Three melee attackers, one ranged attacker, and a final boss, each equipped with unique AI systems and action-switching logic
 - Sound effects system for all characters' actions, and background music system for battle switching
+
 Move demo:
 ![move](assets/Move.gif)
+
 Combo demo:
-![box combo](assets/box combo.gif)
-![sword combo](assets/sword combo.gif)
+![box combo](assets/box_combo.gif)
+![sword combo](assets/sword_combo.gif)
+
 Dialogue system demo:
-![dialogue](assets/Talk to NPC.gif)
+![dialogue](assets/Talk_to_NPC.gif)
+
 Combat demo:
 ![combat](assets/combat.gif)
