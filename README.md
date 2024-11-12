@@ -19,11 +19,11 @@ Move demo:
 ![move](assets/Move.gif)
 
 Combo demo:
-![box combo](assets/box_combo.gif)
-![sword combo](assets/sword_combo.gif)
+![box combo](assets/box.gif)
+![sword combo](assets/sword.gif)
 
 Dialogue system demo:
-![dialogue](assets/Talk_to_NPC.gif)
+![dialogue](assets/dialogue.gif)
 
 Combat demo:
 ![combat](assets/combat.gif)
